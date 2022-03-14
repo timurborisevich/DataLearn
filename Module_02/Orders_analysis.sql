@@ -1,6 +1,6 @@
---Данные с отбором по региону "South" за 2018 год
+--Data with filter by region "South" for 2018
 
---Выручка и прибыль
+--Total sales and profit
 select
 	region,
 	round(sum(sales),2) as sales,
@@ -15,7 +15,7 @@ where
 group by
 	region
 	
---Выручка и прибыль в динамике по месяцам
+-- Sales and profit in dynamics by months
 select 
 	to_char(order_date, 'MM') as month,
 	round(sum(sales),2) as sales,
@@ -28,7 +28,7 @@ where
 group by
 	month
 
---Количество заказов и возвратов в динамике
+--Count orders and returns in dynamics by months
 select 
 	to_char(o.order_date, 'MM') as month,
 	count(distinct o.order_id) as order_count,
@@ -42,8 +42,8 @@ where
 	o.region = 'South'
 group by
 	month
-	
---Выручка и прибыль по штатам
+
+--Sales and profit by states
 select
 	state,
 	round(sum(sales),2) as sales,
@@ -57,7 +57,7 @@ group by
 	state
 order by sales desc
 
---Выручка по городам
+--Sales by cities
 with sales_total as (	
 	select 
 		sum(sales) as sales_total 
@@ -79,7 +79,7 @@ group by
 	city, st.sales_total
 order by sales desc
 
---Выручка и прибыль по категориям
+--Sales and profit by categories
 select
 	category,
 	round(sum(sales),2),
