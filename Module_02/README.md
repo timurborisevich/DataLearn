@@ -10,7 +10,7 @@
 
 2.3.3 Запросы для анализа данных:
 
-
+<code>[Orders_analysis](https://github.com/timurborisevich/DataLearn/blob/main/Module_02/Orders_analysis.sql "")</code>
 
 _Полностью соответствуют примерам и результатам анализа из модуля 1:_
 <code>[Файл Excel](https://github.com/timurborisevich/DataLearn/blob/main/Module_01/My%20Sample%20Module%201.xlsx "")</code>
