@@ -16,4 +16,13 @@ _Полностью соответствуют примерам и резуль�
 <code>[Файл Excel](https://github.com/timurborisevich/DataLearn/blob/main/Module_01/My%20Sample%20Module%201.xlsx "")</code>
 
 
-### 2. Аналитика в Excel
+### 2.4 Модели данных
+
+2.4.1 Модель:
+
+<code>![Картинка](https://github.com/timurborisevich/DataLearn/blob/main/Module_02/Physical model.png "")</code>
+
+2.4.2-3
+
+<code>[DDL + Insert](https://github.com/timurborisevich/DataLearn/blob/main/Module_02/DDL.sql "")</code>
+
