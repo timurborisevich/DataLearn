@@ -20,7 +20,7 @@ _Полностью соответствуют примерам и резуль�
 
 2.4.1 Модель:
 
-<code>![Картинка](https://github.com/timurborisevich/DataLearn/blob/main/Module_02/Physical model.png "")</code>
+<code>![Картинка](https://github.com/timurborisevich/DataLearn/blob/main/Module_02/Physical_model.png "")</code>
 
 2.4.2-3
 
