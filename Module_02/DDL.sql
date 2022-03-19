@@ -415,7 +415,7 @@ create table Sales
  customer_id 	varchar(8) not null,
  order_id    	varchar(14) not null,
  city_id     	serial not null,
- postal_code   	int,
+ postal_code   	varchar(6),
  sales         	numeric not null,
  quantity      	numeric not null,
  discount      	numeric not null,
