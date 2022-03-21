@@ -346,6 +346,29 @@ from
 select * from Orders 
 
 
+-- ************************************** Returns
+drop table if EXISTS Returns CASCADE
+
+CREATE TABLE Returns
+(
+ Order_id varchar(14) NOT NULL,
+ CONSTRAINT PK_219 PRIMARY KEY ( Order_id ),
+ CONSTRAINT FK_216 FOREIGN KEY ( Order_id ) REFERENCES Orders ( Order_id )
+);
+
+CREATE INDEX FK_218 ON Returns
+(
+ Order_id
+);
+
+insert into Returns
+select distinct Order_id
+from 
+		returns_old
+	
+select * from Returns
+
+
 -- ************************************** Persons_dim
 drop table if EXISTS Persons_dim cascade
 
