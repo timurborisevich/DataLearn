@@ -1,6 +1,6 @@
 
 -- ************************************** Calendar_dim
-drop table Calendar_dim cascade
+drop table if EXISTS Calendar_dim cascade
 
 create table Calendar_dim
 (
@@ -36,7 +36,7 @@ select * from Calendar_dim limit 100
           
 
 -- ************************************** Categories_dim
-drop table Categories_dim cascade
+drop table if EXISTS Categories_dim cascade
 
 create table Categories_dim
 (
@@ -60,7 +60,7 @@ select * from Categories_dim
 
 
 -- ************************************** Subcategories_dim
-drop table Subcategories_dim cascade
+drop table if EXISTS Subcategories_dim cascade
 
 create table Subcategories_dim
 (
@@ -95,7 +95,7 @@ select * from Subcategories_dim
 
 
 -- ************************************** Products_dim
-drop table Products_dim cascade
+drop table if EXISTS Products_dim cascade
 
 create table Products_dim
 (
@@ -133,7 +133,7 @@ select * from Products_dim
 
 
 -- ************************************** Countries_dim
-drop table Countries_dim cascade
+drop table if EXISTS Countries_dim cascade
 
 create table Countries_dim
 (
@@ -157,7 +157,7 @@ select * from Countries_dim
 
 
 -- ************************************** Regions_dim
-drop table Regions_dim cascade
+drop table if EXISTS Regions_dim cascade
 
 create table Regions_dim
 (
@@ -192,7 +192,7 @@ select * from Regions_dim
 
 
 -- ************************************** States_dim
-drop table States_dim cascade
+drop table if EXISTS States_dim cascade
 
 create table States_dim
 (
@@ -227,7 +227,7 @@ select * from States_dim
 
 
 -- ************************************** Cities_dim
-drop table Cities_dim cascade
+drop table if EXISTS Cities_dim cascade
 
 create table Cities_dim
 (
@@ -262,7 +262,7 @@ select * from Cities_dim
 
 
 -- ************************************** Segments_dim
-drop table Segments_dim cascade
+drop table if EXISTS Segments_dim cascade
 
 create table Segments_dim
 (
@@ -286,7 +286,7 @@ select * from Segments_dim
 
 
 -- ************************************** Customer_dim
-drop table Customers_dim cascade
+drop table if EXISTS Customers_dim cascade
 
 create table Customers_dim
 (
@@ -322,7 +322,7 @@ select * from Customers_dim
 
 
 -- ************************************** Orders
-drop table Orders cascade
+drop table if EXISTS Orders cascade
 
 create table Orders
 (
@@ -347,7 +347,7 @@ select * from Orders
 
 
 -- ************************************** Persons_dim
-drop table Persons_dim cascade
+drop table if EXISTS Persons_dim cascade
 
 create table Persons_dim
 (
@@ -380,7 +380,7 @@ select * from Persons_dim
 
 
 -- ************************************** Ship_modes_dim
-drop table Ship_modes_dim cascade
+drop table if EXISTS Ship_modes_dim cascade
 
 create table Ship_modes_dim
 (
@@ -404,7 +404,7 @@ select * from Ship_modes_dim
 
 
 -- ************************************** Sales
-drop table Sales cascade
+drop table if EXISTS Sales cascade
 
 create table Sales
 (

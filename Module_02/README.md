@@ -26,3 +26,12 @@ _Полностью соответствуют примерам и резуль�
 
 <code>[DDL + Insert](https://github.com/timurborisevich/DataLearn/blob/main/Module_02/DDL.sql "")</code>
 
+### 2.5 База данных в облаке
+
+Использовался сервис: <code>[supabase](https://app.supabase.io/ "")</code>
+
+### 2.6 BI-инструменты
+
+<code>[Yandex DataLean](https://datalens.yandex.ru/w51qmh9a6k40o-orders "")</code>
+
+<code>![Картинка](https://github.com/timurborisevich/DataLearn/blob/main/Module_02/Yandex_DataLens.png "")</code>
