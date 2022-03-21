@@ -32,12 +32,13 @@ _Полностью соответствуют примерам и резуль�
 
 ### 2.6 BI-инструменты
 
-Power BI
+Power BI:
 
 <code>![Страница 1](https://github.com/timurborisevich/DataLearn/blob/main/Module_02/PowerBI_Page1.png "")</code>
 
+
 <code>![Страница 2](https://github.com/timurborisevich/DataLearn/blob/main/Module_02/PowerBI_Page2.png "")</code>
 
-<code>[Yandex DataLens](https://datalens.yandex.ru/w51qmh9a6k40o-orders "")</code>
+<code>[Yandex DataLens:](https://datalens.yandex.ru/w51qmh9a6k40o-orders "")</code>
 
 <code>![Картинка](https://github.com/timurborisevich/DataLearn/blob/main/Module_02/Yandex_DataLens.png "")</code>
