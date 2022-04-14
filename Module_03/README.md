@@ -1,7 +1,8 @@
 # Module 03
 ### 3.8 Знакомство с Tableau
 
-<code>![Tableau](https://github.com/timurborisevich/DataLearn/blob/main/Module_03/Sales_Tableau.twb "")</code>
+SuperStore Dataset на Tableau:
+<code>[Tableau](https://github.com/timurborisevich/DataLearn/blob/main/Module_03/Sales_Tableau.twb "")</code>
 
 <code>![DataSource](https://github.com/timurborisevich/DataLearn/blob/main/Module_03/Tableau_DataSource.png "")</code>
 
@@ -12,4 +13,4 @@
 ### 3.10 Знакомство с Power BI
 
 Решение практического задания:
-<code>![Power BI](https://github.com/timurborisevich/DataLearn/blob/main/Module_03/DataLearn.pbix "")</code>
+<code>[Power BI](https://github.com/timurborisevich/DataLearn/blob/main/Module_03/DataLearn.pbix "")</code>
