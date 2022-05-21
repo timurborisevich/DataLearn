@@ -1,2 +1,2 @@
-# DataLearn
-## Timur Borisevich
+# Школа анализа данных DataLearn
+## Тимур Борисевич
