@@ -14,3 +14,14 @@ SuperStore Dataset на Tableau:
 
 Решение практического задания:
 <code>[Power BI](https://github.com/timurborisevich/DataLearn/blob/main/Module_03/DataLearn.pbix "")</code>
+
+### Финальный проект
+
+Меня не очень заинтересовал предложенный проект и, т.к. оценки никто не ставит и учимся мы для себя, 
+то захотелось сделать что-то поинтереснее :)
+Очень понравилась идея с анализом вакансий на hh. Решил сделать такой проект, проанализировав
+вакансии в сфере 1С (я сейчас в ней работаю). Вот результаты в виде дашборда и статейки с описанием:
+
+[Опубликованный в Power BI отчет](https://app.powerbi.com/view?r=eyJrIjoiN2FmOTk4ZjItOTQzOS00YjNiLTkwZWEtNGRmZTU2YzlkZDIyIiwidCI6ImU4NGU3MzcwLWFlMDUtNDZmZS04MDBmLTk4NjNlYzY1MDViMiIsImMiOjh9&pageName=ReportSection)
+
+[Статья с описанием реализации и результатов](https://infostart.ru/1c/articles/1659077/)
