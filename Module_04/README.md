@@ -3,7 +3,7 @@
 
 #### 1. Загрузка файла sample-superstore.xls и распределение данных по множеству файлов с умышленными ошибками
 
-<code>![DataSource](https://github.com/timurborisevich/DataLearn/blob/main/Module_04/PentahoPractics/PentahoImage/Download_sample.png "")</code>
+<code>![DataSource](https://github.com/timurborisevich/DataLearn/blob/main/Module_04/PentahoPractics/PentahoImages/Download_sample.png "")</code>
 
 #### 2. Загрузка данных в БД PostgreSQL из множества файлов.
 
@@ -15,4 +15,4 @@
 
 <code>![Картинка](https://github.com/timurborisevich/DataLearn/blob/main/Module_04/PentahoPractics/PentahoImages/Download_products.png "")</code>
 
-<code>[Трасформация](https://github.com/timurborisevich/DataLearn/blob/main/Module_04/PentahoPractics/PentahoImages/download_products.ktr "")</code>
+<code>[Трасформация](https://github.com/timurborisevich/DataLearn/blob/main/Module_04/PentahoPractics/PentahoFiles/download_products.ktr "")</code>
